@@ -1,2 +1,2 @@
 # GoogleClone
-###Clone of GoogleWebsite
+Clone of GoogleWebsite made for recruitment process
